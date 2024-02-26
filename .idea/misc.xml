@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/cart_background.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/cat_background.xml" value="0.21458333333333332" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/cat_background2.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/cat_background3.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/cat_background4.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/cat_background5.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/ic_plus_orange.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/orange_button.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/orange_light_banner.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/search_background.xml" value="0.215625" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/drawable/view_holder_popular.xml" value="0.21458333333333332" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/layout/activity_food_detail.xml" value="0.22" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/layout/activity_intro.xml" value="0.19947916666666668" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/layout/view_holder_category.xml" value="0.1984375" />
+        <entry key="..\:/Programming/workspaces/intellij/demos/Food_order/app/src/main/res/layout/view_holder_popular.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="jbr-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
